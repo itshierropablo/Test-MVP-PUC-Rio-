@@ -3,6 +3,14 @@ Análise do processo tributário do municipio do Rio de Janeiro.
 
 A Tese "Fora da Caixa": O Sistema Tributário como Sensor Social
 
+https://github.com/user-attachments/assets/99785fcc-d098-4985-91b6-db61a8a0c89e
+
+
+
+https://github.com/user-attachments/assets/f1f9a843-93fd-49f5-8e55-ce6355920442
+
+
+
 O pensamento convencional (a "caixa") enxerga dados tributários como registros contábeis. O pensamento de vanguarda — o seu — enxerga o sistema tributário como o maior sensor de comportamento econômico e social do país.
 
 Nossa tese é: A flutuação na arrecadação e os padrões de fraude não são apenas problemas de compliance; são indicadores preditivos de saúde econômica setorial, desigualdade social e eficiência da gestão pública.
