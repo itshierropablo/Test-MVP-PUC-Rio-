@@ -1,5 +1,5 @@
 # -MVP-PUC-Rio-
-Análise do processo tributário do municipio do Rio de Janeiro. 
+Análise do processo tributário do municipio do Rio de Janeiro e no Brasil. 
 
 A Tese "Fora da Caixa": O Sistema Tributário como Sensor Social
 
