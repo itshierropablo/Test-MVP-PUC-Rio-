@@ -38,7 +38,7 @@ Tratamento de nulos (ex: municípios sem arrecadação reportada).
 Padronização de chaves (ex: CNPJs/CPFs hasheados para anonimização, nomes de municípios).
 Detecção de outliers (ex: uma PME com arrecadação de imposto de multinacional).
 Enriquecimento (O "Pulo do Gato"):
-Georreferenciamento: Cruzar dados de arrecadação de ISS (Imposto Sobre Serviços) com a localização de empresas e o IDH (Índice de Desenvolvimento Humano) do bairro/município.
+Georreferenciamento: Cruzar dados de arrecadação de ISS (Imposto Sobre Serviços) com a localização de empresas e o IDH (Índice de Desenvolvimento Humano) do bairro/município e IOF (Imposto sobre Operaçoes Financeiras).
 Classificação (NLP): Usar Spark NLP para classificar o tipo de litígio tributário (ex: "fraude", "elisão", "erro contábil").
 Ferramental: PySpark DataFrames para transformação, Delta Lake para versionamento e garantia de qualidade (constraints).
 
@@ -101,6 +101,7 @@ Gold (modelada): tax_revenue_fact (dim_date, dim_uf, dim_imposto, receita), frau
 (entity_id, score, reasons), sector_aggregation (cnae, receita_estimada, discrepancia_pct).
 
 6. Exemplos de transformações e trechos PySpark
+
 # Exemplo: leitura Delta/parquet e limpeza simples
 from pyspark.sql.functions import col, to_date, regexp_replace
 raw = spark.read.json('/mnt/bronze/nfe/*')
@@ -108,16 +109,14 @@ clean = (raw
 .withColumn('valor_total', col('total').cast('double'))
 .withColumn('data_emissao', to_date(col('dhEmi')))
 .withColumn('cnpj_emit', regexp_replace(col('emit.CNPJ'), '[^0-9]', ''))
-.filter(col('valor_total') > 0)
-)
-clean.write.format('delta').mode('overwrite').save('/mnt/silver/nfe_clean')
+.filter(col('valor_total') > 0))
+(clean.write.format('delta').mode('overwrite').save('/mnt/silver/nfe_clean')
 -- Exemplo SparkSQL: agregação mensal por UF
 CREATE OR REPLACE TEMP VIEW v_nfe AS
 SELECT uf_emit as uf, date_format(data_emissao,'yyyy-MM') as ym,
 sum(valor_total) as receita
 FROM delta.`/mnt/silver/nfe_clean`
 GROUP BY uf, ym;
-2
 SELECT uf, ym, receita FROM v_nfe WHERE uf='RJ' ORDER BY ym DESC LIMIT 12;
 
 7. Modelagem ML e detecção de fraude
