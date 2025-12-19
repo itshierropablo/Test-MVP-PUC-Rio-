@@ -19,6 +19,8 @@ Vamos provar isso.
 1. Orquestração do Pipeline de Dados (O MVP)
 Para responder perguntas complexas, precisamos de um pipeline robusto. No ecossistema Databricks (Spark/PySpark), isso se traduz na Arquitetura Medallion, que já incorpora suas etapas (Coleta, Modelagem, Carga, Análise) e a garantia de qualidade.
 
+<img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/7dc66dd2-6246-4475-97c2-46b7fab61337" />
+
 📈 Fase 1: Coleta (Camada BRONZE - O "Pântano" de Dados Brutos)
 Aqui, o objetivo é a ingestão (Coleta) de dados brutos, sem tratamento.
 Fontes de Dados Essenciais:
