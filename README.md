@@ -170,7 +170,9 @@ Mapear fontes e conseguir amostras de NF‑e e arrecadação (CSV/JSON/XML).
 Implementar AutoLoader para ingestão incremental.
 Construir primeira versão do feature store e treinar Isolation Forest.
 Preparar apresentação/defesa do projeto com evidências (logs, métricas, visualizações).
-Análise Graficas dos dados abertos tributários 
+Análise Graficas dos dados abertos tributários
+
+Perguntas: Quais foram os bairros que mais arrecadam com o IPTU no Rio? Como seque a tentencia de arrecadaçao do IPTU? É possivel oquestrar um análise epistemica e logaratmica dos dados do IPTU? Como funciona a arrecadaçao de IOF? e a de ISS? 
 
 
 Gráfico de Bairros que Mais arrecadaram: 
@@ -196,3 +198,7 @@ Receita de imposto de ISS em milhões
 Mapa de Calor ao longo dos meses do ano e a arrecadação sobre serviços. 
 
 <img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/7256ea92-2f3d-4865-8c42-dab221d993b7" />
+
+Notas Finais: 
+
+O trabalho busca criar novas epistemes para o direito e processo tributário brasileiro, para além disso busca se conectar com a Reforma Tributária através da análise da dados e resolver as questoes do Brasileiro acerca da adequaçao do ordenamento tributário no dia dia de empresas e pessoas fisicas. 
