@@ -171,7 +171,8 @@ Análise Graficas dos dados abertos tributários
 
 
 Gráfico de Bairros que Mais arrecadaram: 
-<img width="512" height="600" alt="Image" src="https://github.com/user-attachments/assets/f36a67ad-bf46-4983-ac2b-7ee158a9865c" />
+
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/f36a67ad-bf46-4983-ac2b-7ee158a9865c" />
 
 Tendencia de Arrecadação de IPTU: 
 
@@ -183,4 +184,4 @@ Escala de Distribuiçao Logaritmica:
 
 Arrecadação de IOF vs Pib per Cabita e o Sensor Social: 
 
-<img width="512" height="600" alt="Image" src="https://github.com/user-attachments/assets/dfb52836-2bbb-4480-b054-4153dcdbc663" />
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/dfb52836-2bbb-4480-b054-4153dcdbc663" />
