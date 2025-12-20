@@ -185,3 +185,11 @@ Escala de Distribuiçao Logaritmica:
 Arrecadação de IOF vs Pib per Cabita e o Sensor Social: 
 
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/dfb52836-2bbb-4480-b054-4153dcdbc663" />
+
+Receita de imposto de ISS em milhões
+
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/a228aa3b-474c-4352-8a38-0e9f6a64e6d8" />
+
+Mapa de Calor ao longo dos meses do ano e a arrecadação sobre serviços. 
+
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/7256ea92-2f3d-4865-8c42-dab221d993b7" />
