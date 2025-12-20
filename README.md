@@ -201,4 +201,4 @@ Mapa de Calor ao longo dos meses do ano e a arrecadação sobre serviços.
 
 Notas Finais: 
 
-O trabalho busca criar novas epistemes para o direito e processo tributário brasileiro, para além disso busca se conectar com a Reforma Tributária através da análise da dados e resolver as questoes do Brasileiro acerca da adequaçao do ordenamento tributário no dia dia de empresas e pessoas fisicas. 
+Este projeto propõe uma nova base epistemológica para o Direito e o Processo Tributário brasileiro. Ao integrar a análise de dados no contexto da Reforma Tributária, o trabalho oferece soluções práticas para os desafios cotidianos de empresas e pessoas físicas, garantindo maior conformidade e adequação ao ordenamento jurídico vigente.
