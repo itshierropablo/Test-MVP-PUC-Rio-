@@ -1,4 +1,7 @@
-# -MVP-PUC-Rio-
+# -MVP-PUC-Rio- Engenharia de Dados
+Aluno: Pablo Hierro Gouvea Calixto 
+Graduado em Direito pela FND UFRJ / Pós Graduaçao em Ciencias de Dados Puc-Rio
+
 Análise do processo tributário do municipio do Rio de Janeiro e no Brasil. 
 
 A Tese "Fora da Caixa": O Sistema Tributário como Sensor Social
