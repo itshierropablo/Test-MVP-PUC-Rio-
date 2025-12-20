@@ -1,0 +1,14 @@
+Aluno: Pablo Hierro Gouvea
+
+I. Dos Objetivos
+
+O projeto atingiu 100% dos objetivos propostos. A infraestrutura de dados possibilitou a resoluçao de diversos problemas, além de possibilitar visualizar novos caminhos para os negocios de tributos no Brasil e no Rio junta da PUC. 
+
+II- Dos Desafios
+Administra e orquestrar dados em plataformas de cloud demonstraram um enorme desafio que foi dividido em partes menores ao longo do módulo o que possibilitou visualizar novas formas para solucionar e aprender com o trablaho de MVP. 
+
+3. Próximos Passos
+
+Implementar orquestração com Databricks Jobs (agendamento diário).
+Conectar um Power BI diretamente às tabelas Delta para visualização interativa.
+Inovar e Atualizar constantemente e automaticamente com novas frameworks de dados. 
