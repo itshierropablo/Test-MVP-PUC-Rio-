@@ -175,24 +175,24 @@ Análise Graficas dos dados abertos tributários
 
 Gráfico de Bairros que Mais arrecadaram: 
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/f36a67ad-bf46-4983-ac2b-7ee158a9865c" />
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/f36a67ad-bf46-4983-ac2b-7ee158a9865c" />
 
 Tendencia de Arrecadação de IPTU: 
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/f3f47c04-45b6-458b-ab01-8c5a80208a00" />
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/f3f47c04-45b6-458b-ab01-8c5a80208a00" />
 
 Escala de Distribuiçao Logaritmica: 
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/13f41358-3196-4500-89f3-8cbbc4655299" />
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/13f41358-3196-4500-89f3-8cbbc4655299" />
 
 Arrecadação de IOF vs Pib per Cabita e o Sensor Social: 
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/dfb52836-2bbb-4480-b054-4153dcdbc663" />
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/dfb52836-2bbb-4480-b054-4153dcdbc663" />
 
 Receita de imposto de ISS em milhões
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/a228aa3b-474c-4352-8a38-0e9f6a64e6d8" />
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/a228aa3b-474c-4352-8a38-0e9f6a64e6d8" />
 
 Mapa de Calor ao longo dos meses do ano e a arrecadação sobre serviços. 
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/7256ea92-2f3d-4865-8c42-dab221d993b7" />
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/7256ea92-2f3d-4865-8c42-dab221d993b7" />
