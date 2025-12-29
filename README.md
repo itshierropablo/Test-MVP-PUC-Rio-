@@ -24,6 +24,9 @@ Para responder perguntas complexas, precisamos de um pipeline robusto. No ecossi
 
 <img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/7dc66dd2-6246-4475-97c2-46b7fab61337" />
 
+O Processo Tributário como Ontologia WebVowl 
+<img width="1756" height="1050" alt="Image" src="https://github.com/user-attachments/assets/bb93cb98-c9df-4f4a-87b6-038220c4fa4f" />
+
 📈 Fase 1: Coleta (Camada BRONZE - O "Pântano" de Dados Brutos)
 Aqui, o objetivo é a ingestão (Coleta) de dados brutos, sem tratamento.
 Fontes de Dados Essenciais:
